@@ -1,0 +1,29 @@
+# Ignore build output folders
+/build/
+/build/classes/
+/dist/
+
+# Ignore NetBeans IDE files
+/nbproject/private/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore generated files
+*.jar
+*.war
+*.ear
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore environment config files
+*.env
+
